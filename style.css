@@ -1,0 +1,41 @@
+@font-face{
+    font-family: Esteadad;
+    src: url(./fonts/Estedad-Regular.woff2);
+
+}
+body{
+   font-family: "Esteadad" ;
+}
+.btn{
+    
+    background-color: rgb(59, 187, 159);
+}
+.icon{
+    color:rgb(59, 187, 159) ;
+    background-color: #cef0e0;
+    display: inline-flex;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.img-proile{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+.img-comments{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.backgrondcolor{
+    background-color: #cef0e0;
+}
+.icon1{
+    color:rgb(59, 187, 159) ;
+    display: inline-flex;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 15px;
+}
